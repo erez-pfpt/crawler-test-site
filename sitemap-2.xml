@@ -2,4 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://erez-pfpt.github.io/crawler-test-site/inside.html</loc>
-</url></urlset>
+</url>
+<url>
+<loc>https://erez-pfpt.github.io/crawler-test-site/test-pdf.pdf</loc>
+</url>
+</urlset>
